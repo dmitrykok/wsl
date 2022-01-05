@@ -1,0 +1,4 @@
+#!/home/ubuntu/.pyenv/versions/3.8.4/bin/python3
+# EASY-INSTALL-SCRIPT: 'rainbow==3.0.0.dev0','rainbow'
+__requires__ = 'rainbow==3.0.0.dev0'
+__import__('pkg_resources').run_script('rainbow==3.0.0.dev0', 'rainbow')

@@ -1,0 +1,4 @@
+#!/bin/sh
+#exec /home/dmitryk/ndk/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-gdb -q -ex init-peda "$@"
+exec /home/dmitryk/ndk/android-ndk-r21d/prebuilt/linux-x86_64/bin/gdb -q -ex init-peda "$@"
+
